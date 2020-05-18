@@ -26,6 +26,7 @@ void MainWindow::showTime()
     ui->hora->setText(time_text);
 }
 
+
 MainWindow::~MainWindow()
 {
     delete ui;
